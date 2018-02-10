@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/DmzWindRibbon.unity
     guid: d6589c5ecc17e45469d5b2d0a67a9a8b
+  - enabled: 1
+    path: Assets/AlmostEngine/UltimateScreenshotCreator/Example/Scenes/SceneExample.unity
+    guid: 6745a049a01478344a652452bb861a50
