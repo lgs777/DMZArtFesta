@@ -33,12 +33,13 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     #endregion // UNTIY_MONOBEHAVIOUR_METHODS
 
     #region PUBLIC_METHODS
-	public GameObject swipeUI;
+
+	//public GameObject swipeUI;
 	public GameObject markerUI;
 
-	public GameObject whale1;
-	public GameObject whale2;
-	public GameObject whale3;
+	//public GameObject whale1;
+	//public GameObject whale2;
+	//public GameObject whale3;
     /// <summary>
     ///     Implementation of the ITrackableEventHandler function called when the
     ///     tracking state changes.
@@ -54,11 +55,11 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
         {
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
             OnTrackingFound();
-			swipeUI.SetActive (true);
+	//		swipeUI.SetActive (true);
 			markerUI.SetActive (false);
-			whale1.SetActive (true);
-			whale2.SetActive (true);
-			whale3.SetActive (true);
+	//		whale1.SetActive (true);
+	//		whale2.SetActive (true);
+	//		whale3.SetActive (true);
         }
         else if (previousStatus == TrackableBehaviour.Status.TRACKED &&
                  newStatus == TrackableBehaviour.Status.NOT_FOUND)
