@@ -37,7 +37,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 	//public GameObject swipeUI;
 	public GameObject markerUI;
 
-	//public GameObject whale1;
+	public GameObject whale1;
 	//public GameObject whale2;
 	//public GameObject whale3;
     /// <summary>
@@ -56,8 +56,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
             OnTrackingFound();
 	//		swipeUI.SetActive (true);
-			markerUI.SetActive (false);
-	//		whale1.SetActive (true);
+		
 	//		whale2.SetActive (true);
 	//		whale3.SetActive (true);
         }
@@ -86,6 +85,9 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
         var colliderComponents = GetComponentsInChildren<Collider>(true);
         var canvasComponents = GetComponentsInChildren<Canvas>(true);
 
+		markerUI.SetActive (false);
+		whale1.SetActive (true);
+
         // Enable rendering:
         foreach (var component in rendererComponents)
             component.enabled = true;
@@ -105,6 +107,9 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
         var rendererComponents = GetComponentsInChildren<Renderer>(true);
         var colliderComponents = GetComponentsInChildren<Collider>(true);
         var canvasComponents = GetComponentsInChildren<Canvas>(true);
+
+		markerUI.SetActive (true);
+		whale1.SetActive (false);
 
         // Disable rendering:
         foreach (var component in rendererComponents)

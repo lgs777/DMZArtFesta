@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: baa3485173ea340f684ba7f357a77f79, type: 3}
   m_Name: Ribbon
   m_EditorClassIdentifier: 
-  input: {fileID: 4300000, guid: 064a4eb6a1e48453ab79e2f469a50edb, type: 3}
+  input: {fileID: 4300000, guid: c5d0e77bd04fff2408379f24fb380086, type: 3}
   scale: {x: 1, y: 1, z: 1}
   initialized: 1
   vertexCount: 96
@@ -3260,292 +3260,292 @@ MonoBehaviour:
   heVertices:
   - index: 0
     halfEdge: 41
-    position: {x: 0.06954, y: 0, z: 0.97499996}
+    position: {x: 0.27816, y: 0, z: 3.8999999}
   - index: 1
     halfEdge: 452
-    position: {x: 0.1159, y: 0, z: 1.125}
+    position: {x: 0.4636, y: 0, z: 4.5}
   - index: 2
     halfEdge: 453
-    position: {x: 0.1159, y: 0, z: 0.97499996}
+    position: {x: 0.4636, y: 0, z: 3.8999999}
   - index: 3
     halfEdge: 456
-    position: {x: 0.06954, y: 0, z: 1.125}
+    position: {x: 0.27816, y: 0, z: 4.5}
   - index: 4
     halfEdge: 47
-    position: {x: 0.02318, y: 0, z: 0.97499996}
+    position: {x: 0.09272, y: 0, z: 3.8999999}
   - index: 5
     halfEdge: 457
-    position: {x: 0.02318, y: 0, z: 1.125}
+    position: {x: 0.09272, y: 0, z: 4.5}
   - index: 6
     halfEdge: 53
-    position: {x: -0.02318, y: 0, z: 0.97499996}
+    position: {x: -0.09272, y: 0, z: 3.8999999}
   - index: 7
     halfEdge: 455
-    position: {x: -0.02318, y: 0, z: 1.125}
+    position: {x: -0.09272, y: 0, z: 4.5}
   - index: 8
     halfEdge: 59
-    position: {x: -0.06954, y: 0, z: 0.97499996}
+    position: {x: -0.27816, y: 0, z: 3.8999999}
   - index: 9
     halfEdge: 451
-    position: {x: -0.06954, y: 0, z: 1.125}
+    position: {x: -0.27816, y: 0, z: 4.5}
   - index: 10
     halfEdge: 460
-    position: {x: -0.1159, y: 0, z: 0.97499996}
+    position: {x: -0.4636, y: 0, z: 3.8999999}
   - index: 11
     halfEdge: 458
-    position: {x: -0.1159, y: 0, z: 1.125}
+    position: {x: -0.4636, y: 0, z: 4.5}
   - index: 12
     halfEdge: 71
-    position: {x: 0.06954, y: 0, z: 0.825}
+    position: {x: 0.27816, y: 0, z: 3.3}
   - index: 13
     halfEdge: 459
-    position: {x: 0.1159, y: 0, z: 0.825}
+    position: {x: 0.4636, y: 0, z: 3.3}
   - index: 14
     halfEdge: 77
-    position: {x: 0.02318, y: 0, z: 0.825}
+    position: {x: 0.09272, y: 0, z: 3.3}
   - index: 15
     halfEdge: 83
-    position: {x: -0.02318, y: 0, z: 0.825}
+    position: {x: -0.09272, y: 0, z: 3.3}
   - index: 16
     halfEdge: 89
-    position: {x: -0.06954, y: 0, z: 0.825}
+    position: {x: -0.27816, y: 0, z: 3.3}
   - index: 17
     halfEdge: 464
-    position: {x: -0.1159, y: 0, z: 0.825}
+    position: {x: -0.4636, y: 0, z: 3.3}
   - index: 18
     halfEdge: 101
-    position: {x: 0.06954, y: 0, z: 0.675}
+    position: {x: 0.27816, y: 0, z: 2.7}
   - index: 19
     halfEdge: 461
-    position: {x: 0.1159, y: 0, z: 0.675}
+    position: {x: 0.4636, y: 0, z: 2.7}
   - index: 20
     halfEdge: 107
-    position: {x: 0.02318, y: 0, z: 0.675}
+    position: {x: 0.09272, y: 0, z: 2.7}
   - index: 21
     halfEdge: 113
-    position: {x: -0.02318, y: 0, z: 0.675}
+    position: {x: -0.09272, y: 0, z: 2.7}
   - index: 22
     halfEdge: 119
-    position: {x: -0.06954, y: 0, z: 0.675}
+    position: {x: -0.27816, y: 0, z: 2.7}
   - index: 23
     halfEdge: 467
-    position: {x: -0.1159, y: 0, z: 0.675}
+    position: {x: -0.4636, y: 0, z: 2.7}
   - index: 24
     halfEdge: 131
-    position: {x: 0.06954, y: 0, z: 0.525}
+    position: {x: 0.27816, y: 0, z: 2.1}
   - index: 25
     halfEdge: 465
-    position: {x: 0.1159, y: 0, z: 0.525}
+    position: {x: 0.4636, y: 0, z: 2.1}
   - index: 26
     halfEdge: 137
-    position: {x: 0.02318, y: 0, z: 0.525}
+    position: {x: 0.09272, y: 0, z: 2.1}
   - index: 27
     halfEdge: 143
-    position: {x: -0.02318, y: 0, z: 0.525}
+    position: {x: -0.09272, y: 0, z: 2.1}
   - index: 28
     halfEdge: 149
-    position: {x: -0.06954, y: 0, z: 0.525}
+    position: {x: -0.27816, y: 0, z: 2.1}
   - index: 29
     halfEdge: 466
-    position: {x: -0.1159, y: 0, z: 0.525}
+    position: {x: -0.4636, y: 0, z: 2.1}
   - index: 30
     halfEdge: 161
-    position: {x: 0.06954, y: 0, z: 0.375}
+    position: {x: 0.27816, y: 0, z: 1.5}
   - index: 31
     halfEdge: 469
-    position: {x: 0.1159, y: 0, z: 0.375}
+    position: {x: 0.4636, y: 0, z: 1.5}
   - index: 32
     halfEdge: 167
-    position: {x: 0.02318, y: 0, z: 0.375}
+    position: {x: 0.09272, y: 0, z: 1.5}
   - index: 33
     halfEdge: 173
-    position: {x: -0.02318, y: 0, z: 0.375}
+    position: {x: -0.09272, y: 0, z: 1.5}
   - index: 34
     halfEdge: 179
-    position: {x: -0.06954, y: 0, z: 0.375}
+    position: {x: -0.27816, y: 0, z: 1.5}
   - index: 35
     halfEdge: 472
-    position: {x: -0.1159, y: 0, z: 0.375}
+    position: {x: -0.4636, y: 0, z: 1.5}
   - index: 36
     halfEdge: 191
-    position: {x: 0.06954, y: 0, z: 0.225}
+    position: {x: 0.27816, y: 0, z: 0.9}
   - index: 37
     halfEdge: 471
-    position: {x: 0.1159, y: 0, z: 0.225}
+    position: {x: 0.4636, y: 0, z: 0.9}
   - index: 38
     halfEdge: 197
-    position: {x: 0.02318, y: 0, z: 0.225}
+    position: {x: 0.09272, y: 0, z: 0.9}
   - index: 39
     halfEdge: 203
-    position: {x: -0.02318, y: 0, z: 0.225}
+    position: {x: -0.09272, y: 0, z: 0.9}
   - index: 40
     halfEdge: 209
-    position: {x: -0.06954, y: 0, z: 0.225}
+    position: {x: -0.27816, y: 0, z: 0.9}
   - index: 41
     halfEdge: 474
-    position: {x: -0.1159, y: 0, z: 0.225}
+    position: {x: -0.4636, y: 0, z: 0.9}
   - index: 42
     halfEdge: 221
-    position: {x: 0.06954, y: 0, z: 0.074999996}
+    position: {x: 0.27816, y: 0, z: 0.29999998}
   - index: 43
     halfEdge: 473
-    position: {x: 0.1159, y: 0, z: 0.074999996}
+    position: {x: 0.4636, y: 0, z: 0.29999998}
   - index: 44
     halfEdge: 227
-    position: {x: 0.02318, y: 0, z: 0.074999996}
+    position: {x: 0.09272, y: 0, z: 0.29999998}
   - index: 45
     halfEdge: 233
-    position: {x: -0.02318, y: 0, z: 0.074999996}
+    position: {x: -0.09272, y: 0, z: 0.29999998}
   - index: 46
     halfEdge: 239
-    position: {x: -0.06954, y: 0, z: 0.074999996}
+    position: {x: -0.27816, y: 0, z: 0.29999998}
   - index: 47
     halfEdge: 477
-    position: {x: -0.1159, y: 0, z: 0.074999996}
+    position: {x: -0.4636, y: 0, z: 0.29999998}
   - index: 48
     halfEdge: 251
-    position: {x: 0.06954, y: 0, z: -0.074999996}
+    position: {x: 0.27816, y: 0, z: -0.29999998}
   - index: 49
     halfEdge: 475
-    position: {x: 0.1159, y: 0, z: -0.074999996}
+    position: {x: 0.4636, y: 0, z: -0.29999998}
   - index: 50
     halfEdge: 257
-    position: {x: 0.02318, y: 0, z: -0.074999996}
+    position: {x: 0.09272, y: 0, z: -0.29999998}
   - index: 51
     halfEdge: 263
-    position: {x: -0.02318, y: 0, z: -0.074999996}
+    position: {x: -0.09272, y: 0, z: -0.29999998}
   - index: 52
     halfEdge: 269
-    position: {x: -0.06954, y: 0, z: -0.074999996}
+    position: {x: -0.27816, y: 0, z: -0.29999998}
   - index: 53
     halfEdge: 450
-    position: {x: -0.1159, y: 0, z: -0.074999996}
+    position: {x: -0.4636, y: 0, z: -0.29999998}
   - index: 54
     halfEdge: 281
-    position: {x: 0.06954, y: 0, z: -0.225}
+    position: {x: 0.27816, y: 0, z: -0.9}
   - index: 55
     halfEdge: 454
-    position: {x: 0.1159, y: 0, z: -0.225}
+    position: {x: 0.4636, y: 0, z: -0.9}
   - index: 56
     halfEdge: 287
-    position: {x: 0.02318, y: 0, z: -0.225}
+    position: {x: 0.09272, y: 0, z: -0.9}
   - index: 57
     halfEdge: 293
-    position: {x: -0.02318, y: 0, z: -0.225}
+    position: {x: -0.09272, y: 0, z: -0.9}
   - index: 58
     halfEdge: 299
-    position: {x: -0.06954, y: 0, z: -0.225}
+    position: {x: -0.27816, y: 0, z: -0.9}
   - index: 59
     halfEdge: 481
-    position: {x: -0.1159, y: 0, z: -0.225}
+    position: {x: -0.4636, y: 0, z: -0.9}
   - index: 60
     halfEdge: 311
-    position: {x: 0.06954, y: 0, z: -0.375}
+    position: {x: 0.27816, y: 0, z: -1.5}
   - index: 61
     halfEdge: 479
-    position: {x: 0.1159, y: 0, z: -0.375}
+    position: {x: 0.4636, y: 0, z: -1.5}
   - index: 62
     halfEdge: 317
-    position: {x: 0.02318, y: 0, z: -0.375}
+    position: {x: 0.09272, y: 0, z: -1.5}
   - index: 63
     halfEdge: 323
-    position: {x: -0.02318, y: 0, z: -0.375}
+    position: {x: -0.09272, y: 0, z: -1.5}
   - index: 64
     halfEdge: 329
-    position: {x: -0.06954, y: 0, z: -0.375}
+    position: {x: -0.27816, y: 0, z: -1.5}
   - index: 65
     halfEdge: 463
-    position: {x: -0.1159, y: 0, z: -0.375}
+    position: {x: -0.4636, y: 0, z: -1.5}
   - index: 66
     halfEdge: 341
-    position: {x: 0.06954, y: 0, z: -0.525}
+    position: {x: 0.27816, y: 0, z: -2.1}
   - index: 67
     halfEdge: 482
-    position: {x: 0.1159, y: 0, z: -0.525}
+    position: {x: 0.4636, y: 0, z: -2.1}
   - index: 68
     halfEdge: 347
-    position: {x: 0.02318, y: 0, z: -0.525}
+    position: {x: 0.09272, y: 0, z: -2.1}
   - index: 69
     halfEdge: 353
-    position: {x: -0.02318, y: 0, z: -0.525}
+    position: {x: -0.09272, y: 0, z: -2.1}
   - index: 70
     halfEdge: 359
-    position: {x: -0.06954, y: 0, z: -0.525}
+    position: {x: -0.27816, y: 0, z: -2.1}
   - index: 71
     halfEdge: 484
-    position: {x: -0.1159, y: 0, z: -0.525}
+    position: {x: -0.4636, y: 0, z: -2.1}
   - index: 72
     halfEdge: 371
-    position: {x: 0.06954, y: 0, z: -0.675}
+    position: {x: 0.27816, y: 0, z: -2.7}
   - index: 73
     halfEdge: 483
-    position: {x: 0.1159, y: 0, z: -0.675}
+    position: {x: 0.4636, y: 0, z: -2.7}
   - index: 74
     halfEdge: 377
-    position: {x: 0.02318, y: 0, z: -0.675}
+    position: {x: 0.09272, y: 0, z: -2.7}
   - index: 75
     halfEdge: 383
-    position: {x: -0.02318, y: 0, z: -0.675}
+    position: {x: -0.09272, y: 0, z: -2.7}
   - index: 76
     halfEdge: 389
-    position: {x: -0.06954, y: 0, z: -0.675}
+    position: {x: -0.27816, y: 0, z: -2.7}
   - index: 77
     halfEdge: 486
-    position: {x: -0.1159, y: 0, z: -0.675}
+    position: {x: -0.4636, y: 0, z: -2.7}
   - index: 78
     halfEdge: 401
-    position: {x: 0.06954, y: 0, z: -0.825}
+    position: {x: 0.27816, y: 0, z: -3.3}
   - index: 79
     halfEdge: 478
-    position: {x: 0.1159, y: 0, z: -0.825}
+    position: {x: 0.4636, y: 0, z: -3.3}
   - index: 80
     halfEdge: 407
-    position: {x: 0.02318, y: 0, z: -0.825}
+    position: {x: 0.09272, y: 0, z: -3.3}
   - index: 81
     halfEdge: 413
-    position: {x: -0.02318, y: 0, z: -0.825}
+    position: {x: -0.09272, y: 0, z: -3.3}
   - index: 82
     halfEdge: 419
-    position: {x: -0.06954, y: 0, z: -0.825}
+    position: {x: -0.27816, y: 0, z: -3.3}
   - index: 83
     halfEdge: 468
-    position: {x: -0.1159, y: 0, z: -0.825}
+    position: {x: -0.4636, y: 0, z: -3.3}
   - index: 84
     halfEdge: 431
-    position: {x: 0.06954, y: 0, z: -0.97499996}
+    position: {x: 0.27816, y: 0, z: -3.8999999}
   - index: 85
     halfEdge: 476
-    position: {x: 0.1159, y: 0, z: -0.97499996}
+    position: {x: 0.4636, y: 0, z: -3.8999999}
   - index: 86
     halfEdge: 437
-    position: {x: 0.02318, y: 0, z: -0.97499996}
+    position: {x: 0.09272, y: 0, z: -3.8999999}
   - index: 87
     halfEdge: 443
-    position: {x: -0.02318, y: 0, z: -0.97499996}
+    position: {x: -0.09272, y: 0, z: -3.8999999}
   - index: 88
     halfEdge: 449
-    position: {x: -0.06954, y: 0, z: -0.97499996}
+    position: {x: -0.27816, y: 0, z: -3.8999999}
   - index: 89
     halfEdge: 462
-    position: {x: -0.1159, y: 0, z: -0.97499996}
+    position: {x: -0.4636, y: 0, z: -3.8999999}
   - index: 90
     halfEdge: 470
-    position: {x: 0.06954, y: 0, z: -1.125}
+    position: {x: 0.27816, y: 0, z: -4.5}
   - index: 91
     halfEdge: 480
-    position: {x: 0.1159, y: 0, z: -1.125}
+    position: {x: 0.4636, y: 0, z: -4.5}
   - index: 92
     halfEdge: 487
-    position: {x: 0.02318, y: 0, z: -1.125}
+    position: {x: 0.09272, y: 0, z: -4.5}
   - index: 93
     halfEdge: 488
-    position: {x: -0.02318, y: 0, z: -1.125}
+    position: {x: -0.09272, y: 0, z: -4.5}
   - index: 94
     halfEdge: 485
-    position: {x: -0.06954, y: 0, z: -1.125}
+    position: {x: -0.27816, y: 0, z: -4.5}
   - index: 95
     halfEdge: 489
-    position: {x: -0.1159, y: 0, z: -1.125}
+    position: {x: -0.4636, y: 0, z: -4.5}
   heOrientations:
   - {x: -0, y: -0.98878944, z: -0, w: -0.1493165}
   - {x: -0, y: 0.70710677, z: 0, w: 0.70710677}
@@ -3840,7 +3840,7 @@ MonoBehaviour:
   visualMap: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000
   meshInfo:
     volume: 0
-    area: 0.5215505
+    area: 8.344808
     borderEdgeCount: 40
     closed: 0
     nonManifold: 0
