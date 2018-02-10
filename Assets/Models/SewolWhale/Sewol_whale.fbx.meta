@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 8d4c2bcaeadcb4262b0dcfba870607ae
+timeCreated: 1487561314
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barquito_1_1
+    100002: Bone001_2
+    100004: Bone002_2
+    100006: Bone003_2
+    100008: Bone004_2
+    100010: Bone005_2
+    100012: Bone006_2
+    100014: Bone007_2
+    100016: Bone008_2
+    100018: Bone009_2
+    100020: Bone010_2
+    100022: Bone011_2
+    100024: Bone012_2
+    100026: Bone013_2
+    100028: Bone014_2
+    100030: Bone015_2
+    100032: Bone016_2
+    100034: Bone017_2
+    100036: Bone018_2
+    100038: Bone019_2
+    100040: Bone020_2
+    100042: Bone021_2
+    100044: Bone022_2
+    100046: Bone023_2
+    100048: Bone024_2
+    100050: humpback_whale_exp1_0_2_2
+    100052: Ribbon_1
+    100054: //RootNode
+    400000: barquito_1_1
+    400002: Bone001_2
+    400004: Bone002_2
+    400006: Bone003_2
+    400008: Bone004_2
+    400010: Bone005_2
+    400012: Bone006_2
+    400014: Bone007_2
+    400016: Bone008_2
+    400018: Bone009_2
+    400020: Bone010_2
+    400022: Bone011_2
+    400024: Bone012_2
+    400026: Bone013_2
+    400028: Bone014_2
+    400030: Bone015_2
+    400032: Bone016_2
+    400034: Bone017_2
+    400036: Bone018_2
+    400038: Bone019_2
+    400040: Bone020_2
+    400042: Bone021_2
+    400044: Bone022_2
+    400046: Bone023_2
+    400048: Bone024_2
+    400050: humpback_whale_exp1_0_2_2
+    400052: Ribbon_1
+    400054: //RootNode
+    2300000: barquito_1_1
+    2300002: Ribbon_1
+    3300000: barquito_1_1
+    3300002: Ribbon_1
+    4300000: humpback_whale_exp1_0_2_2
+    4300002: Ribbon_1
+    4300004: barquito_1_1
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: humpback_whale_exp1_0_2_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 202
+      lastFrame: 313
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001_2
+        weight: 1
+      - path: Bone001_2/Bone002_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2/Bone005_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2/Bone005_2/Bone006_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2/Bone005_2/Bone006_2/Bone007_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2/Bone005_2/Bone006_2/Bone007_2/Bone008_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2/Bone005_2/Bone006_2/Bone007_2/Bone008_2/Bone009_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2/Bone005_2/Bone006_2/Bone007_2/Bone008_2/Bone009_2/Bone010_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2/Bone005_2/Bone006_2/Bone007_2/Bone008_2/Bone009_2/Bone010_2/Bone011_2
+        weight: 1
+      - path: Bone001_2/Bone002_2/Bone003_2/Bone004_2/Bone005_2/Bone006_2/Bone007_2/Bone008_2/Bone009_2/Bone010_2/Bone011_2/Ribbon_1
+        weight: 1
+      - path: Bone001_2/Bone012_2
+        weight: 1
+      - path: Bone001_2/Bone012_2/Bone013_2
+        weight: 1
+      - path: Bone001_2/Bone012_2/Bone013_2/Bone014_2
+        weight: 1
+      - path: Bone001_2/Bone012_2/Bone013_2/Bone014_2/barquito_1_1
+        weight: 1
+      - path: Bone001_2/Bone015_2
+        weight: 1
+      - path: Bone001_2/Bone015_2/Bone016_2
+        weight: 1
+      - path: Bone001_2/Bone015_2/Bone016_2/Bone017_2
+        weight: 1
+      - path: Bone001_2/Bone015_2/Bone016_2/Bone017_2/Bone018_2
+        weight: 1
+      - path: Bone001_2/Bone015_2/Bone016_2/Bone017_2/Bone018_2/Bone019_2
+        weight: 1
+      - path: Bone001_2/Bone020_2
+        weight: 1
+      - path: Bone001_2/Bone020_2/Bone021_2
+        weight: 1
+      - path: Bone001_2/Bone020_2/Bone021_2/Bone022_2
+        weight: 1
+      - path: Bone001_2/Bone020_2/Bone021_2/Bone022_2/Bone023_2
+        weight: 1
+      - path: Bone001_2/Bone020_2/Bone021_2/Bone022_2/Bone023_2/Bone024_2
+        weight: 1
+      - path: humpback_whale_exp1_0_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
